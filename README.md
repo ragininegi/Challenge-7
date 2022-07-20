@@ -36,7 +36,7 @@ Install the below:
 
 ---
 
-Usage
+## Usage
 
 The snapshots of web application created by deploying Jupyter notebook via Voila library is given below:
 
