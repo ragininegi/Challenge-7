@@ -36,6 +36,17 @@ Install the below:
 
 ---
 
+Usage
+
+The snapshots of web application created by deploying Jupyter notebook via Voila library is given below:
+
+![image](https://user-images.githubusercontent.com/104869523/179896903-b5638b20-01ea-4a7d-8041-19ab38d0b4c0.png)
+
+
+![image](https://user-images.githubusercontent.com/104869523/179896928-4e1c82b9-a8b8-4241-a658-a77da67330dd.png)
+
+
+
 ## Contributors
  
 Ragini Negi  
